@@ -28,3 +28,4 @@ pipeline {
             echo 'Pipeline execution failed :('
         }
     }
+}
